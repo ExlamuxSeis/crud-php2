@@ -1,6 +1,5 @@
 ```
 └── 📁registro
-    └── .htaccess
     └── 📁controlador
         └── actualizar.php
         └── agregar.php
